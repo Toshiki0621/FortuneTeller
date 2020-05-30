@@ -1,0 +1,10 @@
+C:\Users\TosikiTatebe\source\repos\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.exe.config
+C:\Users\TosikiTatebe\source\repos\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.exe
+C:\Users\TosikiTatebe\source\repos\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.pdb
+C:\Users\TosikiTatebe\source\repos\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.csprojAssemblyReference.cache
+C:\Users\TosikiTatebe\source\repos\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.Form1.resources
+C:\Users\TosikiTatebe\source\repos\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.Properties.Resources.resources
+C:\Users\TosikiTatebe\source\repos\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.csproj.GenerateResource.cache
+C:\Users\TosikiTatebe\source\repos\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.csproj.CoreCompileInputs.cache
+C:\Users\TosikiTatebe\source\repos\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.exe
+C:\Users\TosikiTatebe\source\repos\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.pdb
